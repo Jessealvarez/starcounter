@@ -2,9 +2,28 @@
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
-  height: 150px;
+  height: 180px;
   width: 50%;
   margin-left: 25%;
+}
+.top-bar {
+  background-color: darkred;
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+}
+.menu-text {
+  display: flex;
+  flex-direction: row;
+}
+
+#logo {
+  margin: 0;
+  margin-left: 2%;
+}
+#menu {
+  margin: 0;
+  margin-left: 68%;
 }
 
 div.count {
